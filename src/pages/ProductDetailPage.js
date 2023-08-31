@@ -1,16 +1,15 @@
 import Footer from "../features/auth/components/footer";
 import NavBar from "../features/navbar/Navbar";
-import ProductList from "../features/product-list/components/ProductList";
-
-function Home() {
+import ProductDetail from "../features/product-list/components/ProductDetail";
+function ProductDetailPage() {
     return ( 
         <div>
             <NavBar>
-                <ProductList></ProductList>
+                <ProductDetail></ProductDetail>
             </NavBar>
             <Footer></Footer>
         </div>
      );
 }
 
-export default Home;
+export default ProductDetailPage;
