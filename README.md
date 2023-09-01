@@ -1,5 +1,4 @@
 
-
 # Local Product E-Commerce Store
 
 Welcome to the Local Product E-Commerce Store project! This is a front-end application built with React and Redux, designed to showcase and sell local products.
@@ -76,4 +75,5 @@ Contributions are welcome! If you’d like to contribute to this project, please
 
 License
 
-[License information, e.g., MIT License, Apache License, etc.]
+owner b4bekkie
+email iambekkie99@gmail.com 
