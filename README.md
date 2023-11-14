@@ -47,22 +47,37 @@ yarn start
 
 The application will be accessible in your browser at http://localhost:3000.
 
-Features
 
-	•	Browse local products by category.
-	•	Search for specific products.
-	•	Add products to the shopping cart.
-	•	View and manage the shopping cart.
-	•	Checkout process (for demonstration purposes).
+## Future Plans
 
+The project is still dev mode These are the current feature :
+
+- Static design of Home Page Authpage cart Page and product Page.
+
+
+
+## Future Plans
+
+The project is still dev In the upcoming phases of development, we plan to implement the following features:
+
+- Sorting functionality to enhance product navigation.
+- Advanced search capabilities for an improved user experience.
+- Integration of a back-end using Express and MongoDB for persistent data storage.
+- Implementation of online payment using Stripe for seamless transactions.
+- Google auth for authentication using firebase
+
+These features aim to provide a more robust and comprehensive e-commerce experience for our users.
 Feel free to enhance and customize the features based on your project requirements.
 
-Technologies Used
+Technologies will  Used
 
 	•	React: A JavaScript library for building user interfaces.
 	•	Redux: A predictable state container for managing application state.
 	•	HTML/CSS: For structuring and styling the user interface.
-    •  Tailwind.Css
+        •       Tailwind.Css
+        •       Express
+        •       Mongodb
+	
 
 Contributing
 
