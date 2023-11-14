@@ -48,7 +48,7 @@ yarn start
 The application will be accessible in your browser at http://localhost:3000.
 
 
-## Future Plans
+## features
 
 The project is still dev mode These are the current feature :
 
